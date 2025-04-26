@@ -62,6 +62,4 @@ This app allows users to create accounts, share posts, chat, and manage their pr
 
 ![Image](https://github.com/user-attachments/assets/5cfd42d0-3c59-4105-ad43-ef1a15adadf0)
 
-![Image](https://github.com/user-attachments/assets/30e9dd39-7ebc-4710-8ede-542bf9994776)
-
-![Image](https://github.com/user-attachments/assets/6a0f2fb6-97e9-4f56-8326-f92b204df80d)
+![Image](https://github.com/user-attachments/assets/942c05f2-2dc2-4dcf-bc6a-384d4ceb75e0)
