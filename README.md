@@ -38,28 +38,38 @@ This app allows users to create accounts, share posts, chat, and manage their pr
 
 ## 🔐 Authentication Screens
 
-![Image](https://github.com/user-attachments/assets/8a04c6a2-94d3-4c00-9b6a-c7dec43e6a9a)
+<img src="https://github.com/user-attachments/assets/8a04c6a2-94d3-4c00-9b6a-c7dec43e6a9a" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/4a5b2adc-3fc9-43fe-af6a-9723bc73605d)
+<img src="https://github.com/user-attachments/assets/4a5b2adc-3fc9-43fe-af6a-9723bc73605d" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/aa3ec596-79b0-451b-ba48-146b327ad011)
+<img src="https://github.com/user-attachments/assets/aa3ec596-79b0-451b-ba48-146b327ad011" width="300" height="700" />
+<br>
 
 ## 📝 Posts Screen
 
-![Image](https://github.com/user-attachments/assets/13a81452-c911-46fe-9118-5638596263cd)
+<img src="https://github.com/user-attachments/assets/13a81452-c911-46fe-9118-5638596263cd" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/bb607da9-9e5b-47ce-a5db-bf3e803cf8d6)
+<img src="https://github.com/user-attachments/assets/bb607da9-9e5b-47ce-a5db-bf3e803cf8d6" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/ca793fcb-afb3-4336-8600-6eb7e843ceb3)
+<img src="https://github.com/user-attachments/assets/ca793fcb-afb3-4336-8600-6eb7e843ceb3" width="300" height="700" />
+<br>
 
 ## 💬 Chat Screens
 
-![Image](https://github.com/user-attachments/assets/631dc002-3a68-4734-9c1a-a71fd03cb551)
+<img src="https://github.com/user-attachments/assets/631dc002-3a68-4734-9c1a-a71fd03cb551" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/2f077784-023b-41f1-9b98-78265b5f1747)
+<img src="https://github.com/user-attachments/assets/2f077784-023b-41f1-9b98-78265b5f1747" width="300" height="700" />
+<br>
 
 ## 🧑‍💼 Profile Screen
 
-![Image](https://github.com/user-attachments/assets/5cfd42d0-3c59-4105-ad43-ef1a15adadf0)
+<img src="https://github.com/user-attachments/assets/5cfd42d0-3c59-4105-ad43-ef1a15adadf0" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/942c05f2-2dc2-4dcf-bc6a-384d4ceb75e0)
+<img src="https://github.com/user-attachments/assets/942c05f2-2dc2-4dcf-bc6a-384d4ceb75e0" width="300" height="700" />
+<br>
